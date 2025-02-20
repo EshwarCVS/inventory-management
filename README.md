@@ -1,2 +1,2 @@
 # inventory-management
-Inventory Management Took
+Inventory Management Tool
